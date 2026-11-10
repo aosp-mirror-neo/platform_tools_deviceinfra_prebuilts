@@ -1,17 +1,17 @@
 name: "deviceinfra"
 description: "Prebuilt drop for deviceinfra"
-version: "1725-20261012-160034"
+version: "1767-20261102-160032"
 prebuilt_file_type {
   type: "UNSPECIFIED"
 }
 prebuilt_file_source {
   vendor {
     vendor_name: "Local"
-    version: "1725-20261012-160034"
+    version: "1767-20261102-160032"
   }
 }
 updated_at {
   year: 2026
-  month: 10
-  day: 19
+  month: 11
+  day: 9
 }
